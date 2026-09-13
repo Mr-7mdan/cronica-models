@@ -1,0 +1,3 @@
+EraX Anti-NSFW V1.1 is published under the Apache License 2.0, as stated on its model card:
+https://huggingface.co/erax-ai/EraX-Anti-NSFW-V1.1
+Full text: https://www.apache.org/licenses/LICENSE-2.0
